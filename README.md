@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AhmedLimon
-- 👀 I’m interested in web design & development.
-- 🌱 I’m currently learning web design.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Tushar Ahmed
+- 👀 I’m interested in software design & development.
+- 🌱 I’m currently pursuing my B.Sc in Software Engineering.
 - 📫 How to reach me Email: ahmedmdtushar009@gmail.com
 
 <!---
